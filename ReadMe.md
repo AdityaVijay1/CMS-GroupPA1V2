@@ -40,7 +40,7 @@ This [WordPress](http://www.wordpress.org) Theme template uses [Bootstrap](http:
 ### Code:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/c5b167c2-03ef-407f-93de-628754d4060f)
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/586cff5f-0300-49dc-a0ff-99436cae3b07)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/2c2a5541-b963-4232-8d8e-57d8be0c7d05)
 
 ### View Source:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/3db1a0d2-20ac-45fd-9d6e-99fad814fcf6)
