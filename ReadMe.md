@@ -66,18 +66,27 @@ This [WordPress](http://www.wordpress.org) Theme template uses [Bootstrap](http:
 ## Functions.php
 
 ### Code:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/7b655b49-294d-46f2-8227-5ee0e1ed7e3f)
 
 ### Browser View:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/0b6d4720-f8f4-4379-b0ec-51098f2041f6)
 
 ### View Source:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/9b587e73-db52-470c-8446-dcaa39988ba0)
 
 <br><br><br>
 
-## Single.php
+## Single/content-single.php
 
 ### Code:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/64a9cf48-6a4b-43b8-929e-53cfc3edb756)
 
 ### Browser View:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/8d3e65d5-fb25-44d0-9bd3-768b3d4501b2)
 
 ### View Source: 
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/41087226-c127-4315-b0bb-04155c0e01b9)
 
+
+# References
+Powered by [WordPress](http://www.wordpress.org) Theme template, uses [Bootstrap](http://getbootstrap.com) v3.3.7 and [Underscores](https://underscores.me/)
