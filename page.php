@@ -22,7 +22,7 @@ I removed Bootstrap's div class="row", see explanation in single.php -->
         <!-- removed sidebar -->
 
     </div>
-    <!-- /.container -->
+    <!-- /.container --> 
 </div>
 
 <?php get_footer(); ?>
