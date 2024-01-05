@@ -7,4 +7,61 @@ This [WordPress](http://www.wordpress.org) Theme template uses [Bootstrap](http:
 
 # Screenshots of Version 2 Website:
 
+## Header.php
+
+### Code:
+
+### Browser View:
+
+### View Source:
+
+<br><br><br>
+
+## Footer.php
+
+### Code:
+
+### Browser View:
+
+### View Source:
+
+<br><br><br>
+
+## Front-Page.php
+
+### Code:
+
+### Browser View:
+
+### View Source:
+
+<br><br><br>
+
+## style.css
+
+### Code:
+
+### Browser View:
+
+### View Source:
+
+<br><br><br>
+
+## Functions.php
+
+### Code:
+
+### Browser View:
+
+### View Source:
+
+<br><br><br>
+
+## Single.php
+
+### Code:
+
+### Browser View:
+
+### View Source: 
 
