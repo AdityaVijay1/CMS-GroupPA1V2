@@ -1,4 +1,4 @@
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/688edb68-19a0-4c69-8159-3a85252c82db)![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/c7ba8cea-61fb-4c50-83c5-9924d362177d)# CP3402 Group PA 1 Github Project Repository
+# CP3402 Group PA 1 Github Project Repository
 This is the repository stores the contents for the first version of our website which includes the PHP, CSS, HTML and JS files
 
 # WordPress Theme Template Details and References 
