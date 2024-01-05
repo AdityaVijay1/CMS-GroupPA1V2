@@ -13,7 +13,8 @@ This [WordPress](http://www.wordpress.org) Theme template uses [Bootstrap](http:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/3a712528-b01f-4130-b127-389f77fcff43)
 
 ### Browser View:
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/05291bab-1963-4e50-8223-b55b7794c224)
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/d3027ce7-21e7-4f86-9f2b-9ff71ee4eec4)
+
 
 ### View Source:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/66a3cce1-8f7d-4feb-ab6e-fe98aa694952)
