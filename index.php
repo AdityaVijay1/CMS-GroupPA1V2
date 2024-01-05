@@ -36,7 +36,7 @@
 
     </div>
     <!-- /.container -->
-</div>
+</div>  
 <!-- /.blogspace -->
 
 <?php get_footer(); ?>
