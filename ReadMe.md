@@ -53,9 +53,10 @@ This [WordPress](http://www.wordpress.org) Theme template uses [Bootstrap](http:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/2a5c4a7f-70a3-4c54-807c-09ec9d4d91fc)
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/f9b4ef0a-178e-4efd-831c-0084ae010c63)
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/7cbb4b46-6af3-4441-bfd3-2e7669e23f81)
-![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/26742c48-a9c6-4113-a518-a1044a16ce09)
+
 
 ### Browser View:
+![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/7f5b2b00-b6d3-47ef-a19b-1291a52dc735)
 
 ### View Source:
 ![image](https://github.com/AdityaVijay1/CMS-GroupPA1V2/assets/84958533/0d5d5dbd-4859-48fb-bd59-158f3c7c64c7)
