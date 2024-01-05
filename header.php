@@ -35,11 +35,7 @@
                 <?php echo 'January 8th-14th January'; ?>
             </p>
 
-            <!-- This is the most basic nav menu you can get. If for example the portfolio doesn't need to be on a separate 
-            page and you don't want to include it in the footer or header, you can just make an extra php file, 
-            say portfolio-section.php, to make up the building blocks of your one-page site (or with extra pages with 
-            other subjects): -->
-
+            
             <?php wp_list_pages( '&title_li=' ); ?>
 
             <img src="wp-content/themes/version2test/img/JCUopenhousemain.png" height="700px", width="1000px" style="position:relative; left:60px;"></img>

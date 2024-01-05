@@ -4,15 +4,13 @@
 
         <h1 class="work">Achievements</h1>
 
-        <!-- Image gallery -->
+        
         <div class="row">
 
             <div class="col-xs-6 col-md-3 col-xxs-12">
 
                 <a href="#">
-                    <!-- Note 1: uploading pictures to the Media Library of Wordpress is meant for attaching pictures 
-                    to Posts or Pages. Outside of that I use my own img folder.
-                    Note 2: Picture is dynamically loaded by Wordpress: -->
+                    
                     <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/ratingimg.png" 
                          alt="Rate"></a>
 

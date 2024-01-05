@@ -14,7 +14,7 @@ body {
 
 /* Header */
 .jumbotron {
-    background: #ba9c5e;   
+    background: #f7bc46;   
     text-align: center;
     /* remove space between jumbotron and blogspace */
     margin: 0;
@@ -26,7 +26,7 @@ body {
 
 /* Blogspace */
 .blogspace {
-    background: #3e4649;
+    background: #707a7d;
 }
 
 /* .col-sm-12 {
@@ -35,7 +35,7 @@ body {
 
 /* Sidebar */
 .blog-sidebar {
-    background: #594826;
+    background: #9c8351;
 }
 
 /* Portfolio */
