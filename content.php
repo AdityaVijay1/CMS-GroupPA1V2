@@ -4,7 +4,7 @@
 We are thrilled to have you at the Singapore campus of James Cook University on 20 May 2023, from 11am to 5pm to explore all that our university has to offer. <br><br><br> As you tour our facilities and speak with our academics, staff, and students, we hope that you will gain a better understanding of what it means to be a student at James Cook University, Singapore. Whether you are interested in pursuing a degree in one of our many academic programs, looking to get involved in student clubs, or simply curious about life on campus, we are here to answer any questions you may have and help you make a more informed decision. <br><br><br> So, please join us and take the time to explore our campus, meet our community members, and discover what sets our university apart. We are excited to have you here and look forward to showing you around soon!
 
 <br><br><br>
-<h2>Register Now and Join Us at James Cook University Singapore, 149 Sims Dr, Singapore 387380</h2>
+<h2>Register Now and Join Us at James Cook University Singapore, 149 Sims Dr, Singapore 387380 <a href="https://www.jcu.edu.sg/openhouse">Register Here</a></h2>
      
 <!-- <div class="blog-post">
     
