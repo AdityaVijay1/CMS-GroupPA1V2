@@ -9,9 +9,10 @@
         <?php the_date(); ?> by
             <a href="#">
             <?php the_author(); ?>
-            </a>
+            </a> 
     </p>
 
-    <?php the_content(); ?>
+    <?php the_content(); ?> 
 
-</div>
+</div>  
+ 
