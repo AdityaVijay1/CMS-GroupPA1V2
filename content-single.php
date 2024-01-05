@@ -1,5 +1,4 @@
-<!-- single blogpost html, one post per page:
-Content for the WordPress loop -->
+
 
 <div class="blog-post">
     
@@ -16,4 +15,3 @@ Content for the WordPress loop -->
     <?php the_content(); ?>
 
 </div>
-<!-- /.blog-post -->
