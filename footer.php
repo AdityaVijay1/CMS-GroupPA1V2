@@ -19,7 +19,7 @@
                 </div>
             </div>
 
-            <div class="col-xs-6 col-md-3 col-xxs-12">
+            <div class="col-xs-6 col-md-3 col-xxs-12">  
 
                 <a target="blank" href="mysck/index.html">
                     <img class="thumbnail img-responsive" src="<?php bloginfo('template_directory');?>/img/rankingimg.png" 
