@@ -9,14 +9,13 @@
 
         <div class="col-sm-8 blog-main">
 
-            <!-- Calling the WordPress Loop -->
+            
             <?php 
                 if ( have_posts() ) : while ( have_posts() ) : the_post();
                 get_template_part( 'content', get_post_format() );
-
+                break;
                 endwhile; ?>
 
-                <!-- Pagination added: In the WordPress Dashboard go to Settings > Reading and change Blog pages show at most to 1 you can check whether it works. -->
                 <nav>
                     <ul class="pager">
                         <li>
