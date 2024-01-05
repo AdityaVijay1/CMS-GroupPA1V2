@@ -5,8 +5,8 @@ We are thrilled to have you at the Singapore campus of James Cook University on 
 
 <br><br><br>
 <h2>Register Now and Join Us at James Cook University Singapore, 149 Sims Dr, Singapore 387380 <a href="https://www.jcu.edu.sg/openhouse">Register Here</a></h2>
-     
-<!-- <div class="blog-post">
+      
+<!-- <div class="blog-post"> 
     
      Now the title links to the single-page version of the post
     <h2 class="blog-post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
